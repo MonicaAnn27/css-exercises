@@ -59,9 +59,11 @@ ul {
 .first {
   display: flex;
   justify-content: flex-start;
+  gap: 16px;
 }
 
 .second {
   display: flex;
   justify-content: flex-end;
+  gap: 8px;
 }
