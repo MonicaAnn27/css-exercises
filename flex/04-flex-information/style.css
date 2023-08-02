@@ -23,6 +23,13 @@ img {
   display: flex;
 }
 
+.flower {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
