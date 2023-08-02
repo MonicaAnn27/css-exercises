@@ -11,6 +11,7 @@ img {
 .titlecontainer {
   display: flex;
   justify-content: center;
+  padding: 32px;
 }
 
 .title {
@@ -21,7 +22,9 @@ img {
 
 .content {
   display: flex;
+  justify-content: center;
 }
+
 
 .flower {
   display: flex;
