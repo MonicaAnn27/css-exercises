@@ -39,6 +39,10 @@ ul {
   padding: 16px;
 }
 
+.footer {
+  background-color: #eee;
+}
+
 a {
   color: #666;
   text-decoration: none;
@@ -52,4 +56,5 @@ button {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
