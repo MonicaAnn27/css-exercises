@@ -26,11 +26,6 @@ input {
   margin-bottom: 16px;
 }
 
-.left-links, .right-links {
-  gap: 2em;
-  display: flex;
-}
-
 ul {
   list-style-type: none;
   display: flex;
