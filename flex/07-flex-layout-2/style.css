@@ -38,7 +38,7 @@ body {
   border-radius: 4px;
   display: flex;
   flex-wrap: wrap;
-  max-width: 100px;
+  max-width: 200px;
 }
 
 a {
