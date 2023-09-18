@@ -36,3 +36,7 @@ header {
   justify-content: space-between;
 
 }
+
+ul {
+  list-style-type: none;
+}
