@@ -8,6 +8,8 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-size: 70%;
+  font-weight: bold;
 }
 
 .footer {
@@ -26,4 +28,9 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+}
+
+a {
+  color:#eee;
+  text-decoration: none;
 }
