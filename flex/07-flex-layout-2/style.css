@@ -9,13 +9,16 @@ body {
 .header {
   height: 72px;
   background: darkmagenta;
+  align-items: center;
+  justify-content: center;
+}
+
+  h1 {
   color: white;
   font-size: 32px;
   font-weight: 900;
   padding: 16 px;
-  margin: 16px;
-  align-items: center;
-  justify-content: center;
+  
 }
 
 .footer {
