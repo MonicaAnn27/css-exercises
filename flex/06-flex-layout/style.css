@@ -26,12 +26,7 @@ input {
   margin-bottom: 16px;
 }
 
-header {
-  display: flex;
-  align-content: center;
-}
-
-.left-links {
+.left-links, .right-links {
   display: flex;
   justify-content: space-between;
 
