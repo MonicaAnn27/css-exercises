@@ -27,9 +27,7 @@ input {
 }
 
 .left-links, .right-links {
-  display: flex;
-  
-  flex-wrap: nowrap;
+  gap: 2em;
 }
 
 ul {
