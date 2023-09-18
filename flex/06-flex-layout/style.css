@@ -36,4 +36,10 @@ ul {
 .footer {
   display: flex;
   justify-content: space-between;
+  padding: 16px;
+}
+
+a {
+  color: #666;
+  text-decoration: none;
 }
