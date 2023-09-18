@@ -28,6 +28,7 @@ input {
 
 .left-links, .right-links {
   gap: 2em;
+  display: flex;
 }
 
 ul {
