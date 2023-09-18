@@ -29,9 +29,11 @@ input {
 ul {
   list-style-type: none;
   display: flex;
+  gap: 16px;
 }
 
-header, footer {
+.header, 
+.footer {
   display: flex;
   justify-content: space-between;
 }
