@@ -43,3 +43,13 @@ a {
   color: #666;
   text-decoration: none;
 }
+
+button {
+  padding: 5px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
